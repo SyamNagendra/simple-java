@@ -1,7 +1,7 @@
 import java.io.*
 import java.util.*
 
-public class Main{
+public class Hello{
   public static void main(Strings[] args){
     System.out.println("Hello World!");
   }
